@@ -1,0 +1,3 @@
+# Keep the Gradle wrapper script usable inside Linux containers, even when cloned on Windows.
+gradlew text eol=lf
+*.bat text eol=crlf
